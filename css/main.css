@@ -19,10 +19,13 @@
     margin-right: 6em;
 }
 .profile-drop-down{
-    margin-left: 39em;
+    margin-left: 37em;
+}
+.all-books-margin{
+    margin-right: 12em;
 }
 .sign-out-admin{
-    margin-left: 56em;
+    margin-left: 54em;
 }
 .row-header{
     background-color: #007bff;
@@ -85,9 +88,6 @@
     margin-left: 19em;
     margin-bottom: 1em;
     font-weight: 600;
-}
-.all-books-margin{
-    margin-right: 13em;
 }
 .borrowed-title{
     margin-left: 1em;
